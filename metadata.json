@@ -1,0 +1,6 @@
+{
+  "name": "SEL Story Generator",
+  "description": "An application that generates educational stories based on Social-Emotional Learning (SEL) principles from a user's idea.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
